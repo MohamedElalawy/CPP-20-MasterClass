@@ -5,10 +5,10 @@
 <h3 align="center">🚧 Current Progress</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Progress-0%25-lightgrey?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Progress-100%25-lightgrey?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
----
+
 
 ## 📘 Overview
 
@@ -69,7 +69,7 @@ This repository contains my journey through **The C++20 Masterclass** — a comp
 | 48 | Spaceship Operator                  | ✅ Done |
 | 49 | Conclusion                          | ✅ Done |
 
----
+
 
 ---
 
