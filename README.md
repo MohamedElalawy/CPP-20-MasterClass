@@ -2,12 +2,11 @@
 
 <p align="center"><em>Course by <strong>Daniel Gakwaya</strong> — Documented by <strong>Muhammad Elalawy</strong></em></p>
 
-<h3 align="center">🚧 Current Progress</h3>
+<h3 align="center">✅ Completed</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Progress-100%25-lightgrey?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Progress-100%25-brightgreen?style=for-the-badge&logo=c%2B%2B" />
 </p>
-
 
 
 ## 📘 Overview
