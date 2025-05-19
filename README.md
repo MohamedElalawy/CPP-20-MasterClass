@@ -17,61 +17,60 @@ This repository contains my journey through **The C++20 Masterclass** — a comp
 
 ## 📈 Progress Tracker
 
-| #  | Chapter Title                       | Status |
-| -- | ----------------------------------- | ------ |
-| 01 | Introduction                        | ✅ Done |
-| 02 | Environment Setup                   | ✅ Done |
-| 03 | First Steps                         | ✅ Done |
-| 04 | Variables and Data Types            | ✅ Done |
-| 05 | Operations on Data                  | ✅ Done |
-| 06 | Literals and Constants              | ✅ Done |
-| 07 | Conversions, Overflow and Underflow | ✅ Done |
-| 08 | Bitwise Operators                   | ✅ Done |
-| 09 | Variable Lifetime and Scope         | ✅ Done |
-| 10 | Flow Control                        | ✅ Done |
-| 11 | Loops                               | ✅ Done |
-| 12 | Arrays                              | ✅ Done |
-| 13 | Pointers                            | ✅ Done |
-| 14 | References                          | ✅ Done |
-| 15 | Character Manipulation and Strings  | ✅ Done |
-| 16 | Functions                           | ✅ Done |
-| 17 | Enums and Type Aliases              | ✅ Done |
-| 18 | Arguments to the Main Function      | ✅ Done |
-| 19 | Getting Things Out of Functions     | ✅ Done |
-| 20 | Function Overloading                | ✅ Done |
-| 21 | Lambda Expressions                  | ✅ Done |
-| 22 | Function Pointers                   | ✅ Done |
-| 23 | Default Arguments                   | ✅ Done |
-| 24 | Overloading Operators               | ✅ Done |
-| 25 | Classes                             | ✅ Done |
-| 26 | Constructors and Destructors        | ✅ Done |
-| 27 | Inheritance                         | ✅ Done |
-| 28 | Polymorphism                        | ✅ Done |
-| 29 | Abstract Classes                    | ✅ Done |
-| 30 | Interfaces                          | ✅ Done |
-| 31 | Static Members                      | ✅ Done |
-| 32 | Friend Functions                    | ✅ Done |
-| 33 | Namespaces                          | ✅ Done |
-| 34 | Exceptions                          | ✅ Done |
-| 35 | File I/O                            | ✅ Done |
-| 36 | Templates                           | ✅ Done |
-| 37 | STL Containers                      | ✅ Done |
-| 38 | STL Algorithms                      | ✅ Done |
-| 39 | Iterators                           | ✅ Done |
-| 40 | Smart Pointers                      | ✅ Done |
-| 41 | Move Semantics                      | ✅ Done |
-| 42 | Threads                             | ✅ Done |
-| 43 | Async and Futures                   | ✅ Done |
-| 44 | Modules                             | ✅ Done |
-| 45 | Concepts                            | ✅ Done |
-| 46 | Ranges                              | ✅ Done |
-| 47 | Coroutines                          | ✅ Done |
-| 48 | Spaceship Operator                  | ✅ Done |
-| 49 | Conclusion                          | ✅ Done |
-
-
+| #  | Chapter Title                                  | Status |
+| -- | ---------------------------------------------- | ------ |
+| 01 | 01.Introduction                                | ✅ Done |
+| 02 | 02.EnvironmentSetup                            | ✅ Done |
+| 03 | 03.FirstSteps                                  | ✅ Done |
+| 04 | 04.VariablesAndDatatypes                       | ✅ Done |
+| 05 | 05.OperationsOnData                            | ✅ Done |
+| 06 | 06.LiteralsAndConstants                        | ✅ Done |
+| 07 | 07.ConversionsOverflowAndUnderflow             | ✅ Done |
+| 08 | 08.BitwiseOperators                            | ✅ Done |
+| 09 | 09.VariableLifetimeAndScope                    | ✅ Done |
+| 10 | 10.FlowControl                                 | ✅ Done |
+| 11 | 11.Loops                                       | ✅ Done |
+| 12 | 12.Arrays                                      | ✅ Done |
+| 13 | 13.Pointers                                    | ✅ Done |
+| 14 | 14.References                                  | ✅ Done |
+| 15 | 15.CharacterManipulationAndStrings             | ✅ Done |
+| 16 | 16.Functions                                   | ✅ Done |
+| 17 | 17.EnumsAndTypeAliases                         | ✅ Done |
+| 18 | 18.ArgumentsToTheMainFunction                  | ✅ Done |
+| 19 | 19.GettingThingsOutOfFunctions                 | ✅ Done |
+| 20 | 20.FunctionOverloading                         | ✅ Done |
+| 21 | 21.LambdaFunctions                             | ✅ Done |
+| 22 | 22.FunctionsTheMisfits                         | ✅ Done |
+| 23 | 23.FunctionCallStackDebugging                  | ✅ Done |
+| 24 | 24.FunctionTemplates                           | ✅ Done |
+| 25 | 25.Concepts                                    | ✅ Done |
+| 26 | 26.Classes                                     | ✅ Done |
+| 27 | 27.ZoomingInOnClassObjects                     | ✅ Done |
+| 28 | 28.DivingDeepIntoConstructorsAndInitialization | ✅ Done |
+| 29 | 29.Friends                                     | ✅ Done |
+| 30 | 30.ConstAndStaticMembers                       | ✅ Done |
+| 31 | 31.Namespaces                                  | ✅ Done |
+| 32 | 32.ProgramsWithMultipleFiles                   | ✅ Done |
+| 33 | 33.SmartPointers                               | ✅ Done |
+| 34 | 34.OperatorOverloading                         | ✅ Done |
+| 35 | 35.LogicalOperatorsAndThreeWayComparison       | ✅ Done |
+| 36 | 36.Inheritance                                 | ✅ Done |
+| 37 | 37.Polymorphism                                | ✅ Done |
+| 38 | 38.Exceptions                                  | ✅ Done |
+| 39 | 39.Practice-BoxContainerType                   | ✅ Done |
+| 40 | 40.ClassTemplates                              | ✅ Done |
+| 41 | 41.MoveSemantics                               | ✅ Done |
+| 42 | 42.FunctionLikeEntities                        | ✅ Done |
+| 43 | 43.StlContainersAndIterators                   | ✅ Done |
+| 44 | 44.ZoomingOnSTLContainers                      | ✅ Done |
+| 45 | 45.StlAlgorithms                               | ✅ Done |
+| 46 | 46.RangesLibraryInCpp20                        | ✅ Done |
+| 47 | 47.BuildingIteratorsForCustomContainers        | ✅ Done |
+| 48 | 48.Coroutines                                  | ✅ Done |
+| 49 | 49.Modules                                     | ✅ Done |
 
 ---
+
 
 ## 📫 Contact Me
 
