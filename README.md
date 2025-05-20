@@ -19,9 +19,7 @@ This repository documents my complete journey through **The C++20 Masterclass** 
 
 | #  | Chapter Title                                  | Status |
 | -- | ---------------------------------------------- | ------ |
-| 01 | 01.Introduction                                | ✅ Done |
-| 02 | 02.EnvironmentSetup                            | ✅ Done |
-| 03 | 03.FirstSteps                                  | ✅ Done |
+| 1-7 | EnvironmentSetup                              | ✅ Done |
 | 08 | 08.VariablesAndDatatypes                       | ✅ Done |
 | 09 | 09.OperationsOnData                            | ✅ Done |
 | 10 | 10.LiteralsAndConstants                        | ✅ Done |
