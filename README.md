@@ -11,7 +11,7 @@
 
 ## 📘 Overview
 
-This repository documents my complete journey through **The C++20 Masterclass** by Daniel Gakwaya — a modern, in-depth course that covers C++ from the ground up. It includes hands-on practice and detailed explorations of fundamental concepts, object-oriented programming, templates, the Standard Template Library (STL), smart pointers, lambda expressions, and powerful C++20 features such as ranges, concepts, and coroutines.
+This repository documents my complete journey through [The C++20 Masterclass](https://www.udemy.com/course/the-modern-cpp-20-masterclass/) by Daniel Gakwaya — a modern, in-depth course that covers C++ from the ground up. It includes hands-on practice and detailed explorations of fundamental concepts, object-oriented programming, templates, the Standard Template Library (STL), smart pointers, lambda expressions, and powerful C++20 features such as ranges, concepts, and coroutines.
 
 ---
 
