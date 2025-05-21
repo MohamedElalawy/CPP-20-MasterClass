@@ -62,10 +62,11 @@ This repository documents my complete journey through [The C++20 Masterclass](ht
 | 47 | 47.StlContainersAndIterators                   | ✅ Done |
 | 48 | 48.ZoomingOnSTLContainers                      | ✅ Done |
 | 49 | 49.StlAlgorithms                               | ✅ Done |
-| 50 | 50.RangesLibraryInCpp20                        | ✅ Done |
-| 51 | 51.BuildingIteratorsForCustomContainers        | ✅ Done |
-| 52 | 52.Coroutines                                  | ✅ Done |
-| 53 | 53.Modules                                     | ✅ Done |
+| 50 | 50.RangesLibraryInCpp20                       | ❌ Undone |
+| 51 | 51.BuildingIteratorsForCustomContainers       | ❌ Undone |
+| 52 | 52.Coroutines                                 | ❌ Undone |
+| 53 | 53.Modules                                    | ❌ Undone |
+
 
 ---
 
